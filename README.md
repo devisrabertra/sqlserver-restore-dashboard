@@ -7,10 +7,10 @@ cat > README.md << 'EOF'
 ![Flask](https://img.shields.io/badge/Flask-2.3%2B-red)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2019%2B-orange)
 
-## 📋 Deskripsi
+##  Deskripsi
 A powerful web dashboard to monitor, manage, and automate SQL Server database restore processes efficiently.
 
-## 📸 Tampilan Aplikasi
+##  Tampilan Aplikasi
 
 Berikut adalah screenshot lengkap dari aplikasi SQL Server Restore Dashboard:
 
@@ -56,10 +56,4 @@ Berikut adalah screenshot lengkap dari aplikasi SQL Server Restore Dashboard:
 
 ---
 
-## 🚀 Cara Instalasi
 
-```bash
-git clone https://github.com/devisrabertra/sqlserver-restore-dashboard.git
-cd sqlserver-restore-dashboard
-pip install -r requirements.txt
-python app.py
