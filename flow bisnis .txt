@@ -1,0 +1,76 @@
+D:\DASHBOARD_PROJECT
+|   app.py
+|
++---History_Backup
+|       History_Backup.py
+|
++---restore_db
+|       restore_DB_DistributionInventory.py
+|       restore_DB_InventoriBarang.py
+|       restore_DB_LogisticsInventory.py
+|       restore_DB_StockManagement.py
+|       restore_DB_Warehouse.py
+|       run.py
+|
++---static
+|       style.css
+|
+\---templates
+        index.html
+
+baru 
+
+D:\DASHBOARD_PROJECT\
+│   app.py                          (MODIFIED)
+│   advanced_ir.py                  (BARU)
+│   requirements.txt                (UPDATE)
+│
+├───History_Backup
+│       History_Backup.py           (TETAP)
+│
+├───restore_db
+│       restore_DB_DistributionInventory.py
+│       restore_DB_InventoriBarang.py
+│       restore_DB_LogisticsInventory.py
+│       restore_DB_StockManagement.py
+│       restore_DB_Warehouse.py
+│       run.py
+│
+├───static
+│       style.css
+│
+└───templates
+        index.html                  (MODIFIED)
+
+
+
+D:\DASHBOARD_PROJECT\
+│   app.py
+│   advanced_ir.py
+│   requirements.txt
+│   blockchain_manager.py          # NEW: Manager blockchain
+│   smart_contract.sol            # NEW: Kontrak pintar
+│
+├───History_Backup
+│       History_Backup.py
+│
+├───restore_db
+│       restore_DB_DistributionInventory.py
+│       restore_DB_InventoriBarang.py
+│       restore_DB_LogisticsInventory.py
+│       restore_DB_StockManagement.py
+│       restore_DB_Warehouse.py
+│       run.py
+│
+├───blockchain_audit              # NEW: Folder khusus blockchain
+│       audit_logs.db             # SQLite cache lokal
+│       config.json               # Konfigurasi blockchain
+│       private_key.txt           # Encrypted private key
+│
+├───static
+│       style.css
+│       blockchain.js             # NEW: JS untuk blockchain
+│
+└───templates
+        index.html
+        blockchain_audit.html     # NEW: Halaman audit
