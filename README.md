@@ -1,6 +1,6 @@
 # Link File .BAK Database
 https://drive.google.com/file/d/1VDR-mHvWq6mNAas104Mf86WLzeI6iaTJ/view?usp=sharing
-cat > README.md << 'EOF'
+
 # SQL Server Restore Dashboard
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
