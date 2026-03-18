@@ -1,19 +1,8 @@
 # Link File .BAK Database
 https://drive.google.com/file/d/1VDR-mHvWq6mNAas104Mf86WLzeI6iaTJ/view?usp=sharing
 
-# SQL Server Restore Dashboard
-
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![Flask](https://img.shields.io/badge/Flask-2.3%2B-red)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-2019%2B-orange)
-
-##  Deskripsi
+##  View Dashboard
 A powerful web dashboard to monitor, manage, and automate SQL Server database restore processes efficiently.
-
-##  Tampilan Aplikasi
-
-Berikut adalah screenshot lengkap dari aplikasi SQL Server Restore Dashboard:
 
 ---
 
